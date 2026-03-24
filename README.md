@@ -1,4 +1,4 @@
-# 🏗️ T-SQL Native DW & Cost Allocation Pipeline - AdventureWorks
+# 🏗️ Pipeline de Dados e DW Nativo: Alocação de Custos no AdventureWorks
 
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
