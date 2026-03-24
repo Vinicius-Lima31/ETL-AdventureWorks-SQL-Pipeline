@@ -1,0 +1,5 @@
+# Ignora todos os arquivos de historico do Bulk Insert feito em Datas
+Dados/Historico/*
+
+# Não ignorar o arquivo .gitkeep
+!**/.gitkeep
